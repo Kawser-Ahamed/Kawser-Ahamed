@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Flutter Project**
 
-- 🌱 I’m currently learning **Flutter, JSP, Spring**
+- 🌱 I’m currently learning **Flutter, App Developing, Web Developing**
 
 - 💬 Ask me about **Java, Flutter**
 
