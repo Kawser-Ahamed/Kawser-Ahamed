@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter, App Developing, Web Developing**
 
-- 💬 Ask me about **Java, Flutter**
+- 💬 Ask me about **Java, Flutter, React**
 
 - 📫 How to reach me **kawserahamed864@gmail.com**
 
